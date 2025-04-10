@@ -8,3 +8,4 @@ This is my one page CV project as a Junior Frontend Developer.
 
 ## 🔗 Live Preview
 https://github.com/Setiawan-nwa/Single-Page-CV
+https://roadmap.sh/projects/single-page-cv
